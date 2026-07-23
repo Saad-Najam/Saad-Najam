@@ -1,18 +1,78 @@
-# 💫 About Me:
-Hi, I’m Saad Najam — a passionate and disciplined Web Developer with a strong interest in modern frontend technologies, full-stack development, and emerging AI solutions. I enjoy building clean, scalable, and user-focused applications that solve real-world problems and deliver meaningful experiences.<br><br>I am currently pursuing a Bachelor of Computer Science (BCS) from FAST National University of Computer and Emerging Sciences, where I am strengthening my foundation in computer science principles, algorithms, data structures, software engineering, and system design. I am expected to graduate in 2029, and I aim to use my academic journey to complement my hands-on development experience.<br><br>My journey into tech started with curiosity and quickly turned into commitment. Over time, I’ve developed a solid foundation in HTML, CSS, JavaScript, TypeScript, and modern frameworks like React and Next.js, and I continuously push myself to learn deeper concepts rather than just surface-level implementations. I believe in writing code that is not only functional but also readable, maintainable, and optimized for performance.<br><br>I have hands-on experience working on real-world projects, including dynamic e-commerce platforms, resume builders, carpooling systems, CMS-driven websites, and responsive UI/UX implementations. I enjoy transforming ideas and designs into fully functional products while paying close attention to pixel-perfect layouts, responsiveness, accessibility, and user experience.<br><br>Beyond frontend development, I’m actively exploring Generative AI engineering, APIs, and modern backend workflows. I’ve worked with headless CMS platforms, integrated third-party APIs, and implemented dynamic data handling using server-side rendering and API routes. I enjoy learning how different systems connect and scale together.<br><br>I strongly believe in continuous improvement, discipline, and consistency. I prefer understanding how things work under the hood rather than relying on shortcuts. This mindset has helped me perform well in competitive academic and professional environments, internships, and hackathons, where problem-solving, collaboration, and time management are essential.<br><br>Currently, I’m focused on:<br><br>Building production-ready web applications<br><br>Mastering Next.js, TypeScript, and Tailwind CSS<br><br>Improving code quality, performance, and scalability<br><br>Developing AI-powered web applications<br><br>Strengthening my problem-solving and system design skills<br><br>📌 My goal is to become a highly skilled computer science professional who builds impactful digital products, stays adaptable in a fast-evolving tech landscape, and contributes meaningfully to the developer community.
+<div align="center">
 
+<!-- Animated typing intro -->
+<a href="https://github.com/Saad140606">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Saad+Najam+%F0%9F%91%8B;Full-Stack+%2B+AI+Web+Developer;Building+CampusRides+%40+FAST-NUCES;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+AI+Agents" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-saad-najam-02546a302) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedsaadnajam2006@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saad140606&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Saad140606&theme=dark&hide_border=false)<br/>
+# 💫 About Me
+
+Passionate and disciplined Web Developer with a strong interest in modern frontend technologies, full-stack development, and emerging AI solutions. I build clean, scalable, user-focused applications that solve real-world problems.
+
+I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST National University of Computer and Emerging Sciences**, expected to graduate in 2029, while shipping production software alongside my studies.
+
+- 🚀 Co-founder of **CampusRides** — a student carpooling platform live at FAST-NUCES and NED University with 400+ active users
+- 🏆 Active in Karachi's university hackathon circuit — civic tech, agentic AI, and products with real traction
+- 🛠️ Comfortable across the stack: Next.js, TypeScript, Supabase, Tailwind, Node.js/Express
+- 🤖 Exploring Generative AI engineering, agentic pipelines, and LLM API integration (Gemini, Claude, Groq)
+- 📌 Currently focused on building production-ready web apps and deepening system design skills
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-saad-najam-02546a302)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedsaadnajam2006@gmail.com)
+
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Saad140606&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Saad140606&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad140606&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saad140606&theme=react-dark&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Saad140606&theme=darkhub&no-frame=true&row=1&column=7)
+
+</div>
+
+## 💬 AI Quote of the Day
+<!-- QUOTE:START -->
+> "Code is like humor. When you have to explain it, it's bad."
+>
+> — Cory House
+<!-- QUOTE:END -->
+
+<sub>↻ Refreshed daily by GitHub Actions</sub>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saad140606/Saad140606/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saad140606/Saad140606/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Saad140606/Saad140606/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=Saad140606&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>Proudly enhanced with GitHub Actions ⚡</sub>
+
+</div>
