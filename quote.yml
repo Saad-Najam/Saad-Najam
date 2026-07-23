@@ -1,0 +1,77 @@
+name: Daily AI Quote Refresh
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC — change the cron if you want a different time
+    - cron: '0 0 * * *'
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch a fresh quote
+        id: fetch
+        run: |
+          RESPONSE=$(curl -s https://zenquotes.io/api/random)
+          QUOTE=$(echo "$RESPONSE" | jq -r '.[0].q')
+          AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].a')
+
+          # Fallback in case the API is down or rate-limited
+          if [ -z "$QUOTE" ] || [ "$QUOTE" = "null" ]; then
+            QUOTE="Code is like humor. When you have to explain it, it's bad."
+            AUTHOR="Cory House"
+          fi
+
+          echo "QUOTE_TEXT<<EOF" >> "$GITHUB_ENV"
+          echo "$QUOTE" >> "$GITHUB_ENV"
+          echo "EOF" >> "$GITHUB_ENV"
+          echo "QUOTE_AUTHOR=$AUTHOR" >> "$GITHUB_ENV"
+
+      - name: Update README between markers
+        run: |
+          python3 - <<'EOF'
+          import os, re
+
+          quote = os.environ["QUOTE_TEXT"].strip()
+          author = os.environ["QUOTE_AUTHOR"].strip()
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          new_block = (
+              "<!-- QUOTE:START -->\n"
+              f'> "{quote}"\n'
+              ">\n"
+              f"> — {author}\n"
+              "<!-- QUOTE:END -->"
+          )
+
+          content = re.sub(
+              r"<!-- QUOTE:START -->.*?<!-- QUOTE:END -->",
+              new_block,
+              content,
+              flags=re.DOTALL,
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "🤖 Daily AI quote refresh [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
