@@ -2,7 +2,7 @@
 
 <!-- Animated typing intro -->
 <a href="https://github.com/Saad-Najam">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Saad+Najam+%F0%9F%91%8B;Full-Stack+%2B+AI+Engineer;Building+Projects+%40+FAST-NUCES;+%C2%B7AI Developer+MERN STACK+%C2%B7++%C2%B7+AI+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Saad+Najam+%F0%9F%91%8B;Full-Stack+%2B+AI+Web+Developer;Building+CampusRides+%40+FAST-NUCES;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+AI+Agents" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,7 +14,7 @@ Passionate and disciplined Web Developer with a strong interest in modern fronte
 I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST National University of Computer and Emerging Sciences**, expected to graduate in 2029, while shipping production software alongside my studies.
 
 - 🚀 Co-founder of **CampusRides** — a student carpooling platform live at FAST-NUCES and NED University with 400+ active users
-- 🏆 Active in Karachi's universities hackathons circuit — civic tech, agentic AI, and products with real traction
+- 🏆 Active in Karachi's university hackathon circuit — civic tech, agentic AI, and products with real traction
 - 🛠️ Comfortable across the stack: Next.js, TypeScript, Supabase, Tailwind, Node.js/Express
 - 🤖 Exploring Generative AI engineering, agentic pipelines, and LLM API integration (Gemini, Claude, Groq)
 - 📌 Currently focused on building production-ready web apps and deepening system design skills
@@ -32,7 +32,8 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **CampusRides** | Student-only carpooling platform live at FAST-NUCES & NED University, 400+ active users, NSA NED-endorsed | Next.js · TypeScript · Supabase | [Repo](#) · [Live](https://campusrides.vercel.app) |
+| **CampusRides** | Student-only carpooling platform live at FAST-NUCES & NED University, 400+ active users, NSA NED-endorsed | Next.js · TypeScript · Supabase | [Repo](#) · [Live](#) |
+| **FASTPoint** | University transport tracking app with live map, favorites, and proximity alerts | Next.js · Hono · Supabase | [Repo](#) · [Live](#) |
 | **FASTCircle** | WhatsApp + Instagram-style social app for FAST students — chat, stories, and video calls | Next.js · Supabase · Agora | [Repo](#) · [Live](#) |
 | **VaultTrust** | Freelancer income verification platform built for the UBL National Innovation Hackathon | Next.js · TypeScript · Supabase | [Repo](#) · [Live](#) |
 | **MedMind** | Medication adherence PWA with reminders and tracking | Next.js · TypeScript | [Repo](#) · [Live](#) |
