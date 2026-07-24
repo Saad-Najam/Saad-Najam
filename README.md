@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Code is like humor. When you have to explain it, it's bad."
+> "One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."
 >
-> — Cory House
+> — Tony Robbins
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
