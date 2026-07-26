@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Watch what you say, and whatever you say, practice it."
+> "Every artist dips his brush in his own soul, and paints his own nature into his pictures."
 >
-> — Soyen Shaku
+> — Henry Ward Beecher
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
