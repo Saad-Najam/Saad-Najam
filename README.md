@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Every artist dips his brush in his own soul, and paints his own nature into his pictures."
+> "Nothing that results in human progress is achieved with unanimous consent."
 >
-> — Henry Ward Beecher
+> — Christopher Columbus
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
