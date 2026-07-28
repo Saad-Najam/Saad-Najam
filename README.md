@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Nothing that results in human progress is achieved with unanimous consent."
+> "Each day your life grows a day shorter. Make every move count."
 >
-> — Christopher Columbus
+> — Ming-Dao Deng
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
