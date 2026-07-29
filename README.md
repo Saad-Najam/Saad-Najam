@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Each day your life grows a day shorter. Make every move count."
+> "Your heart is full of fertile seeds, waiting to sprout."
 >
-> — Ming-Dao Deng
+> — Morihei Ueshiba
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
