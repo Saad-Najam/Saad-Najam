@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Your heart is full of fertile seeds, waiting to sprout."
+> "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."
 >
-> — Morihei Ueshiba
+> — Colin R. Davis
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
