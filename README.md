@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."
+> "We ordinary people must forge our own beauty."
 >
-> — Colin R. Davis
+> — Kenji Miyazawa
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
