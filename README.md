@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "We ordinary people must forge our own beauty."
+> "Fiction is the truth inside the lie."
 >
-> — Kenji Miyazawa
+> — Stephen King
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
