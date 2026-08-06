@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Sometimes adversity is what you need to face in order to become successful."
+> "Success is not how high you have climbed, but how you make a positive difference to the world."
 >
-> — Zig Ziglar
+> — Roy T. Bennett
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
