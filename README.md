@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Success is not how high you have climbed, but how you make a positive difference to the world."
+> "Doing the best at this moment puts you in the best place for the next moment."
 >
-> — Roy T. Bennett
+> — Oprah Winfrey
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
