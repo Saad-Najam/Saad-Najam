@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Doing the best at this moment puts you in the best place for the next moment."
+> "Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."
 >
-> — Oprah Winfrey
+> — Dan Millman
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
