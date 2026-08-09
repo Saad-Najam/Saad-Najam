@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."
+> "You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way."
 >
-> — Dan Millman
+> — Richard Bach
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
