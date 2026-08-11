@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "You will succeed because most people are lazy."
+> "The biggest adventure you can ever take is to live the life of your dreams."
 >
-> — Shahir Zag
+> — Oprah Winfrey
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
