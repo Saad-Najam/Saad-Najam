@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "The biggest adventure you can ever take is to live the life of your dreams."
+> "Where there is anger, there is always pain underneath."
 >
-> — Oprah Winfrey
+> — Eckhart Tolle
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
