@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune."
+> "Art is the signature of civilizations."
 >
-> — Charles Swindoll
+> — Beverly Sills
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
