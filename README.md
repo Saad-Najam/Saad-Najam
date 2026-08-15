@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Art is the signature of civilizations."
+> "A single dream is more powerful than a thousand realities."
 >
-> — Beverly Sills
+> — J.R.R. Tolkien
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
