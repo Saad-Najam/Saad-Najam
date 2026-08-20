@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Believe you can and you're halfway there."
+> "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."
 >
-> — Colin R. Davis
+> — Thich Nhat Hanh
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
