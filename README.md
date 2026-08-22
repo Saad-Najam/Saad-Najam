@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Do what is right, not what is easy, nor what is popular."
+> "If you do not change direction, you may end up where you are heading."
 >
-> — Roy T. Bennett
+> — Lao Tzu
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
