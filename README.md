@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Focus on how far you have come in life rather than looking at the accomplishments of others."
+> "Closing your eyes and listening to silence is self-care."
 >
-> — Lolly Daskal
+> — Maxime Lagace
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
