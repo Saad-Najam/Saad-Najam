@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Closing your eyes and listening to silence is self-care."
+> "A man who dares to waste one hour of time has not discovered the value of life."
 >
-> — Maxime Lagace
+> — Charles Darwin
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
