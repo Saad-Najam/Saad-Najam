@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "A man who dares to waste one hour of time has not discovered the value of life."
+> "Your mind is infinite, it's your doubts that are limiting."
 >
-> — Charles Darwin
+> — Robert Kiyosaki
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
