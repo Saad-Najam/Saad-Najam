@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Your mind is infinite, it's your doubts that are limiting."
+> "It is not fair to ask of others what you are not willing to do yourself."
 >
-> — Robert Kiyosaki
+> — Eleanor Roosevelt
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
