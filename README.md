@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "It is not fair to ask of others what you are not willing to do yourself."
+> "What the mind can conceive and believe, and the heart desire, you can achieve."
 >
-> — Eleanor Roosevelt
+> — Norman Vincent Peale
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
