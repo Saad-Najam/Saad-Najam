@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "What the mind can conceive and believe, and the heart desire, you can achieve."
+> "Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."
 >
-> — Norman Vincent Peale
+> — Steve Harvey
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
