@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."
+> "True it is, we only hate those whom we do not know."
 >
-> — Steve Harvey
+> — Andrew Carnegie
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
