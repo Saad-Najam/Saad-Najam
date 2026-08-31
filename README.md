@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "True it is, we only hate those whom we do not know."
+> "Nothing is hopeless; we must hope for everything."
 >
-> — Andrew Carnegie
+> — Euripides
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
