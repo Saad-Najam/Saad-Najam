@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Nothing is hopeless; we must hope for everything."
+> "People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about."
 >
-> — Euripides
+> — Franklin D. Roosevelt
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
