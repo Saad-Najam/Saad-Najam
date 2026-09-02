@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about."
+> "Projecting your mind into a successful situation is the most powerful means to achieve goals."
 >
-> — Franklin D. Roosevelt
+> — Estee Lauder
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
