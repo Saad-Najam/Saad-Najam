@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Projecting your mind into a successful situation is the most powerful means to achieve goals."
+> "While some of us act without thinking, too many of us think without acting."
 >
-> — Estee Lauder
+> — Dan Millman
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
