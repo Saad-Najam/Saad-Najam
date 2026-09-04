@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "While some of us act without thinking, too many of us think without acting."
+> "Our view of the world is truly shaped by what we decide to hear."
 >
-> — Dan Millman
+> — William James
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
