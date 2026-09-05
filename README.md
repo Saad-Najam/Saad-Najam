@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Our view of the world is truly shaped by what we decide to hear."
+> "Never confuse a single defeat with a final defeat."
 >
-> — William James
+> — F. Scott Fitzgerald
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
