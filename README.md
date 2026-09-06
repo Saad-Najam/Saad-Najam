@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Never confuse a single defeat with a final defeat."
+> "Life without love is like a tree without blossoms or fruit."
 >
-> — F. Scott Fitzgerald
+> — Kahlil Gibran
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
