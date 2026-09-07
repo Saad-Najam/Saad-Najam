@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Life without love is like a tree without blossoms or fruit."
+> "Exceptional thinkers ignore their critics and go about their business making history."
 >
-> — Kahlil Gibran
+> — John Eliot
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
