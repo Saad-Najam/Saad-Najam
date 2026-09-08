@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Exceptional thinkers ignore their critics and go about their business making history."
+> "He will win who knows when to fight and when not to fight."
 >
-> — John Eliot
+> — Sun Tzu
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
