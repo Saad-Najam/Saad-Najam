@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "He will win who knows when to fight and when not to fight."
+> "Working hard for something we don't care about is called stress: Working hard for something we love is called passion."
 >
-> — Sun Tzu
+> — Simon Sinek
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
