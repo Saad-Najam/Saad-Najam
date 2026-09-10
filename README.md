@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Working hard for something we don't care about is called stress: Working hard for something we love is called passion."
+> "If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly."
 >
-> — Simon Sinek
+> — Steve Maraboli
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
