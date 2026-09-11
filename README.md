@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly."
+> "Being kind is more important than being right."
 >
-> — Steve Maraboli
+> — David Brinkley
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
