@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Being kind is more important than being right."
+> "If you aren't sure which way to do something, do it both ways and see which works better."
 >
-> — David Brinkley
+> — John Carmack
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
