@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "If you aren't sure which way to do something, do it both ways and see which works better."
+> "Chase your passion, not your pension."
 >
-> — John Carmack
+> — Denis Waitley
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
