@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "It is far easier to start something than it is to finish it."
+> "The quality of your life is determined by the quality of questions you ask."
 >
-> — Amelia Earhart
+> — Tony Robbins
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
