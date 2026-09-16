@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "The quality of your life is determined by the quality of questions you ask."
+> "There are no mistakes in life, only lessons."
 >
-> — Tony Robbins
+> — Robin Sharma
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
