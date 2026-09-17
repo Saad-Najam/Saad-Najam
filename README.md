@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "There are no mistakes in life, only lessons."
+> "Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."
 >
-> — Robin Sharma
+> — Mark Manson
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
