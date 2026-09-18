@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."
+> "Empty yourself of everything - let the mind become still."
 >
-> — Mark Manson
+> — Lao Tzu
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
