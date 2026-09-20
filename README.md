@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "We make a living by what we get, but we make a life by what we give."
+> "Learn from the rejection and turn it into an opportunity!"
 >
-> — Unknown
+> — Mary Engelbreit
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
