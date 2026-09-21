@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Learn from the rejection and turn it into an opportunity!"
+> "When at last you are come to the ocean of happiness, do not go back thirsty."
 >
-> — Mary Engelbreit
+> — Kabir
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
