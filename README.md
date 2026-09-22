@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "When at last you are come to the ocean of happiness, do not go back thirsty."
+> "You can put lipstick on a pig. It's still a pig."
 >
-> — Kabir
+> — Barack Obama
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
