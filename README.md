@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "You can put lipstick on a pig. It's still a pig."
+> "The best way out is always through."
 >
-> — Barack Obama
+> — Robert Frost
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
