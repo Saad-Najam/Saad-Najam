@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "The best way out is always through."
+> "Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."
 >
-> — Robert Frost
+> — Winston Churchill
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
