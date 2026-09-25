@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."
+> "Sometimes out of your biggest misery, comes your greatest gain."
 >
-> — Winston Churchill
+> — Steve Harvey
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
