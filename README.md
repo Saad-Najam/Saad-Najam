@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "A man that flies from his fear may find that he has only taken a short cut to meet it."
+> "There's no coming to consciousness without pain"
 >
-> — J.R.R. Tolkien
+> — Carl Jung
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
