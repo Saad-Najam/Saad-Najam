@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "The best fighter is never angry."
+> "So long as we are being remembered, we remain alive."
 >
-> — Lao Tzu
+> — Carlos Ruiz Zafon
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
