@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "It's not the love you make. It's the love you give."
+> "Falling down is not failure. Failure comes when you stay where you have fallen."
 >
-> — Nikola Tesla
+> — Socrates
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
