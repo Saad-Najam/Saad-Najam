@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Falling down is not failure. Failure comes when you stay where you have fallen."
+> "Life is like stepping onto a boat which is about to sail out to sea and sink."
 >
-> — Socrates
+> — Shunryu Suzuki
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
