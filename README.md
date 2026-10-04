@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Life is like stepping onto a boat which is about to sail out to sea and sink."
+> "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."
 >
-> — Shunryu Suzuki
+> — Sun Tzu
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
