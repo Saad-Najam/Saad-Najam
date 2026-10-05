@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."
+> "The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong."
 >
-> — Sun Tzu
+> — Jeff Booth
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
