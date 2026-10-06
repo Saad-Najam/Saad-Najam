@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong."
+> "To travel is to be alive, but to get somewhere is to be dead."
 >
-> — Jeff Booth
+> — Alan Watts
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
