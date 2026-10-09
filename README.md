@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Empty yourself of everything - let the mind become still."
+> "We must embrace pain and burn it as fuel for our journey."
 >
-> — Lao Tzu
+> — Kenji Miyazawa
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
