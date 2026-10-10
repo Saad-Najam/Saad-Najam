@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "We must embrace pain and burn it as fuel for our journey."
+> "Work harder on yourself than you do on your job."
 >
-> — Kenji Miyazawa
+> — Jim Rohn
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
