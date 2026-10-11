@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Work harder on yourself than you do on your job."
+> "Your imagination is your preview of life's coming attractions."
 >
-> — Jim Rohn
+> — Albert Einstein
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
