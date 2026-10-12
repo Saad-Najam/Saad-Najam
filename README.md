@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Your imagination is your preview of life's coming attractions."
+> "The secret of change is to focus all your energy not on fighting the old, but on building the new."
 >
-> — Albert Einstein
+> — Dan Millman
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
