@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "The secret of change is to focus all your energy not on fighting the old, but on building the new."
+> "The best revenge is to be unlike him who performed the injury."
 >
-> — Dan Millman
+> — Marcus Aurelius
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
