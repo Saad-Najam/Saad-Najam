@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "The best revenge is to be unlike him who performed the injury."
+> "Don't spend time beating on a wall, hoping to transform it into a door."
 >
-> — Marcus Aurelius
+> — Coco Chanel
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
