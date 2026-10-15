@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Don't spend time beating on a wall, hoping to transform it into a door."
+> "Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."
 >
-> — Coco Chanel
+> — Celestine Chua
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
