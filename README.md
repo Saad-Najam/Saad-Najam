@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."
+> "There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction."
 >
-> — Epictetus
+> — G.I. Gurdjieff
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
