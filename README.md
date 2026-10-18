@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction."
+> "You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."
 >
-> — G.I. Gurdjieff
+> — Anita Krizzan
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
