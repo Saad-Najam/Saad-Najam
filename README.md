@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."
+> "Failure shows us the way — by showing us what isn't the way."
 >
-> — Anita Krizzan
+> — Ryan Holiday
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
