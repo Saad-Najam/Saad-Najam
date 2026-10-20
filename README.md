@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Failure shows us the way — by showing us what isn't the way."
+> "The difference between treason and patriotism is only a matter of dates."
 >
-> — Ryan Holiday
+> — Alexandre Dumas
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
