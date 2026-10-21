@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "The difference between treason and patriotism is only a matter of dates."
+> "Some people feel the rain. Others just get wet."
 >
-> — Alexandre Dumas
+> — Bob Dylan
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
