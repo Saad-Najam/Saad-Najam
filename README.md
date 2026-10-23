@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "We build too many walls and not enough bridges."
+> "Walk towards the sunshine, and the shadows will fall behind you."
 >
-> — Isaac Newton
+> — Mary Engelbreit
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
