@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Walk towards the sunshine, and the shadows will fall behind you."
+> "Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."
 >
-> — Mary Engelbreit
+> — Theodore Roosevelt
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
