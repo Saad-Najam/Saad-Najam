@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."
+> "Good things aren't supposed to just fall into your lap."
 >
-> — Gilbert Chesterton
+> — Audrey Hepburn
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
