@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Good things aren't supposed to just fall into your lap."
+> "There are two kinds of perfect people: those who are dead, and those who have not been born yet."
 >
-> — Audrey Hepburn
+> — Chinese Proverb
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
