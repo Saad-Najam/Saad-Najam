@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "There are two kinds of perfect people: those who are dead, and those who have not been born yet."
+> "It is easy to discover what another has discovered before."
 >
-> — Chinese Proverb
+> — Christopher Columbus
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
