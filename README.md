@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "I've always lived in the moment."
+> "The greatest work that kindness does to others is that it makes them kind themselves."
 >
-> — Yanni
+> — Amelia Earhart
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
