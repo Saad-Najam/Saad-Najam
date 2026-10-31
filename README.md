@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "The greatest work that kindness does to others is that it makes them kind themselves."
+> "Nothing endures but change."
 >
-> — Amelia Earhart
+> — Heraclitus
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
