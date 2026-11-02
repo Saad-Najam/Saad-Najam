@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Watch what you say, and whatever you say, practice it."
+> "Success is never final, failure is never fatal. It's courage that counts."
 >
-> — Soyen Shaku
+> — John Wooden
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
