@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Success is never final, failure is never fatal. It's courage that counts."
+> "Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine."
 >
-> — John Wooden
+> — Zen Proverb
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
