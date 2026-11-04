@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine."
+> "You can live a whole life time never being awake."
 >
-> — Zen Proverb
+> — Dan Millman
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
