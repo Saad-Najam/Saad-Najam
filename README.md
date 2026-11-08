@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."
+> "Know yourself and you will win all battles."
 >
-> — Sigmund Freud
+> — Sun Tzu
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
