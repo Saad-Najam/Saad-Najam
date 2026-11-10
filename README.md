@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "I begin with an idea and then it becomes something else."
+> "The dream is free, but the hustle is sold separately."
 >
-> — Pablo Picasso
+> — Steve Harvey
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
