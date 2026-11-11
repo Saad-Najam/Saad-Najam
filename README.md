@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "The dream is free, but the hustle is sold separately."
+> "Everybody needs a passion. That's what keeps life interesting."
 >
-> — Steve Harvey
+> — Betty White
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
