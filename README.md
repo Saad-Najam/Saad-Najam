@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Everybody needs a passion. That's what keeps life interesting."
+> "Intuition is the ear of the soul."
 >
-> — Betty White
+> — Neale Donald Walsch
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
