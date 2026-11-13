@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Intuition is the ear of the soul."
+> "If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."
 >
-> — Neale Donald Walsch
+> — Kahlil Gibran
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
