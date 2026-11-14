@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."
+> "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."
 >
-> — Kahlil Gibran
+> — Nikola Tesla
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
