@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."
+> "You don't need anybody to tell you who you are or what you are. You are what you are!"
 >
-> — Nikola Tesla
+> — John Lennon
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
