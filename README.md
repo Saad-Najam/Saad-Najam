@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "You don't need anybody to tell you who you are or what you are. You are what you are!"
+> "The way to change others' minds is with affection, and not anger."
 >
-> — John Lennon
+> — Dalai Lama
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
