@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "The way to change others' minds is with affection, and not anger."
+> "It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."
 >
-> — Dalai Lama
+> — Alan Watts
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
