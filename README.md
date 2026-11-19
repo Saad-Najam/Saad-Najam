@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "What we dwell on is who we become."
+> "Everybody has talent, but ability takes hard work."
 >
-> — Oprah Winfrey
+> — Michael Jordan
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
