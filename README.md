@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Everybody has talent, but ability takes hard work."
+> "It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."
 >
-> — Michael Jordan
+> — Steve Maraboli
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
