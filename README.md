@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."
+> "You don't need to be better than anyone else, you just need to be better than you used to be."
 >
-> — Steve Maraboli
+> — Wayne Dyer
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
