@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "You don't need to be better than anyone else, you just need to be better than you used to be."
+> "Life is a long lesson in humility."
 >
-> — Wayne Dyer
+> — James Matthew Barrie
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
