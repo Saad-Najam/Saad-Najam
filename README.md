@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Life has no limitations except the ones you make."
+> "Stop wasting time looking at someone else's reality while doing nothing about yours."
 >
-> — Les Brown
+> — Steve Harvey
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
