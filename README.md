@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Stop wasting time looking at someone else's reality while doing nothing about yours."
+> "Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!"
 >
-> — Steve Harvey
+> — Tony Robbins
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
