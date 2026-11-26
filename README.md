@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!"
+> "Success is about doing the right thing, not about doing everything right."
 >
-> — Tony Robbins
+> — Gary Keller
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
