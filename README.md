@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "Success is about doing the right thing, not about doing everything right."
+> "As we first succeed, we will find ourselves in new situations, facing new problems."
 >
-> — Gary Keller
+> — Ryan Holiday
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
