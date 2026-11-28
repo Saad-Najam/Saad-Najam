@@ -71,9 +71,9 @@ I'm currently pursuing a **Bachelor of Computer Science (BCS)** at **FAST Nation
 
 ## 💬 AI Quote of the Day
 <!-- QUOTE:START -->
-> "As we first succeed, we will find ourselves in new situations, facing new problems."
+> "You never know when a moment and a few sincere words can have an impact on a life."
 >
-> — Ryan Holiday
+> — Zig Ziglar
 <!-- QUOTE:END -->
 
 <sub>↻ Refreshed daily by GitHub Actions</sub>
